@@ -6,7 +6,6 @@ An algorithm for projecting three-dimensional laser point cloud data into serial
 
 A viewpoint is selected on the center of the point cloud data or on the collection trajectory of the data. The algorithm then projects the 3D point cloud data onto the plane corresponding to the different view angles with the viewpoint as the center. The image is then dyed using the characteristics of a three-dimensional laser point cloud. This algorithm gives a total of six kinds of staining methods, the reader can choose one or more of them according to the need.
 ![algorithm_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/algorithm.png)
-algorithm
 
 The six staining methods are: RGB color, reflection value, vertical component of the normal vector, depth, bearing angle, and a binarized grayscale image (no specific name yet).The number of generated pictures and the size and resolution of the generated picture can be changed.
 
