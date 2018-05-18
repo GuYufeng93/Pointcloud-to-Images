@@ -10,21 +10,21 @@ A viewpoint is selected on the center of the point cloud data or on the collecti
 
 The six staining methods are: RGB color, reflection value, vertical component of the normal vector, depth, bearing angle, and neighborhood space angle images.The number of generated pictures and the size and resolution of the generated picture can be changed.
 
-### 1 serialized bearing angle images
-![ETH BA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_BA.gif)
-![ETH BA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_BA.gif)  
-
-### 2 serialized depth images
+### 1 serialized depth images
 ![ETH Depth_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_Depth.gif)
 ![ETH Depth_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_Depth.gif)  
+
+### 2 serialized normal images
+![ETH Normal_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_Normal.gif)
+![ETH Normal_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_Normal.gif)  
 
 ### 3 serialized intensity images
 ![ETH Intensity_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_Intensity.gif)
 ![ETH Intensity_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_Intensity.gif)  
 
-### 4 serialized normal images
-![ETH Normal_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_Normal.gif)
-![ETH Normal_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_Normal.gif)  
+### 4 serialized bearing angle images
+![ETH BA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_BA.gif)
+![ETH BA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_BA.gif)  
 
 ### 5 serialized neighborhood space angle images
 ![ETH NSA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_NSA.gif)
