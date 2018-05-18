@@ -26,16 +26,16 @@ The six staining methods are: RGB color, reflection value, vertical component of
 ![ETH Normal_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_Normal.gif)
 ![ETH Normal_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_Normal.gif)  
 
-### 5 serialized RGB color images
-![ETH RGB color_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_RGB.gif)  
-
-### 6 serialized neighborhood space angle images
+### 5 serialized neighborhood space angle images
 ![ETH NSA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_NSA.gif)
 ![ETH NSA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_NSA.gif)  
 
-### 7 serialized binary neighborhood space angle images
+### 6 serialized binary neighborhood space angle images
 ![ETH BNSA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_BNSA.gif)
 ![ETH BNSA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_BNSA.gif)  
+
+### 7 serialized RGB color images
+![ETH RGB color_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_RGB.gif)  
 
 ## Dependence
 
@@ -46,5 +46,5 @@ Regardless of the input and output, it takes 4 to 5 seconds to generate the six 
 
 ### 1 Semantic3d:"bildstein3"  
 http://www.semantic3d.net/view_dbase.php?chl=1 
-### 2 Jacobs University Bremen gGmbH Scan004  
+### 2 Jacobs University Bremen gGmbH:"scan004"  
 http://kos.informatik.uni-osnabrueck.de/3Dscans/ 
