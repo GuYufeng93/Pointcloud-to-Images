@@ -1,6 +1,7 @@
 # PointCloud to Images
 
-An algorithm for projecting three-dimensional laser point cloud data into serialized two-dimensional images.
+An algorithm for projecting three-dimensional laser point cloud data into serialized two-dimensional images.  
+Author:Yufeng Gu Guyufeng@mail.dlut.edu.cn
 
 ## Introduce
 
