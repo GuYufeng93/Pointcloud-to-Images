@@ -8,7 +8,7 @@ Author:Yufeng Gu Guyufeng@mail.dlut.edu.cn
 A viewpoint is selected on the center of the point cloud data or on the collection trajectory of the data. The algorithm then projects the 3D point cloud data onto the plane corresponding to the different view angles with the viewpoint as the center. The image is then dyed using the characteristics of a three-dimensional laser point cloud. This algorithm gives a total of six kinds of staining methods, the reader can choose one or more of them according to the need.
 ![algorithm_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/algorithm.png)  
 
-The six staining methods are: RGB color, reflection value, vertical component of the normal vector, depth, bearing angle, and neighborhood space angle images.The number of generated pictures and the size and resolution of the generated picture can be changed.
+The six staining methods are: RGB color, reflection value, vertical component of the normal vector, depth, bearing angle, and space neighborhood angle （SNA）images.The number of generated pictures and the size and resolution of the generated picture can be changed.
 
 ### 1 serialized depth images
 ![ETH Depth_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_Depth.gif)
@@ -26,11 +26,11 @@ The six staining methods are: RGB color, reflection value, vertical component of
 ![ETH BA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_BA.gif)
 ![ETH BA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_BA.gif)  
 
-### 5 serialized neighborhood space angle images
+### 5 serialized space neighborhood angle images
 ![ETH NSA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_NSA.gif)
 ![ETH NSA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_NSA.gif)  
 
-### 6 serialized binary neighborhood space angle images
+### 6 serialized binary space neighborhood angle images
 ![ETH BNSA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/ETH_BNSA.gif)
 ![ETH BNSA_image](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/Examples/JACOBS_BNSA.gif)  
 
