@@ -46,5 +46,7 @@ Regardless of the input and output, it takes 4 to 5 seconds to generate the six 
 
 ### 1 Semantic3d:"bildstein3"  
 http://www.semantic3d.net/view_dbase.php?chl=1 
+![bildstein3](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/reduced-8-bildstein3.jpg)  
 ### 2 Jacobs University Bremen gGmbH:"scan004"  
 http://kos.informatik.uni-osnabrueck.de/3Dscans/ 
+![scan004](https://github.com/GuYufeng93/Pointcloud-to-Images/blob/master/bremenCity.png)  
