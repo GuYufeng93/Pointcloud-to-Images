@@ -2,6 +2,7 @@
 
 An algorithm for projecting three-dimensional laser point cloud data into serialized two-dimensional images.  
 Author:Yufeng Gu Guyufeng@mail.dlut.edu.cn
+Outdoor Scene Understanding Based on Multi-Scale PBA Image Features and Point Cloud Features. (https://www.mdpi.com/1424-8220/19/20/4546)
 
 ## Introduce
 
